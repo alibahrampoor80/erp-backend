@@ -1,7 +1,7 @@
 const swaggerDocument = {
     openapi: '3.0.0',
     info: {
-        title: 'management project',
+        title: 'erp system',
         version: '1.0.0',
         description: 'ali bahrampoor',
     },
